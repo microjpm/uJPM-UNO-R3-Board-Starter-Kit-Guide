@@ -3,9 +3,6 @@
   Circuit 1A-Blink
 
   Turns an LED connected to pin 13 on and off. Repeats forever.
-
-  This sketch was written by MicroJPM, with lots of help from the Arduino community.
-  This code is completely free for any use.
 */
 
 void setup() {
